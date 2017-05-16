@@ -191,6 +191,6 @@
                 currentLink.removeClass("active");
             }
         });
-    }
+    } //end onScroll event
 
 })(jQuery);
